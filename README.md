@@ -1,9 +1,5 @@
-# TestDoc
-
-A curated collection of test case documents for various applications and APIs, designed to assist QA engineers, developers, and testers in planning and executing comprehensive testing strategies.
-
+Welcome to **TestDoc**, a personal collection of test case documents I've created for various applications and APIs. This repository showcases my work in test planning and documentation, aimed at ensuring quality and reliability in software development.
 ---
-
 ## 📂 Repository Contents
 
 - **E-commerce Api Test.xlsx**  
